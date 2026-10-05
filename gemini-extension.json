@@ -1,0 +1,11 @@
+{
+  "name": "postonce",
+  "version": "1.0.0",
+  "description": "Publish and schedule social media posts to LinkedIn, Instagram, TikTok, YouTube, X, Threads, Bluesky, Facebook and Pinterest from Gemini CLI, through each platform's official API.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "postonce": {
+      "httpUrl": "https://postonce.to/mcp"
+    }
+  }
+}
